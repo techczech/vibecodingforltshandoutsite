@@ -1,0 +1,2909 @@
+{
+  "metadata": {
+    "id": "46c366ca-cd48-4b1c-a15c-b666f12cc5d6",
+    "source_file": "46c366ca-cd48-4b1c-a15c-b666f12cc5d6.pptx",
+    "processed_at": "2026-01-09T13:11:32.768649",
+    "stats": {
+      "slide_count": 86,
+      "image_count": 55
+    }
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "slides": [
+        {
+          "order": 1,
+          "title": "Vibe coding for language teachers:  Making apps for language learning with AI",
+          "layout": "Title Slide - Image Background",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Vibe coding for language teachers: \u000bMaking apps for language learning with AI",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "LINK and QR CODE TO ADD",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Dominik.Lukes@oerc.ox.ac.uk",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Content",
+      "slides": [
+        {
+          "order": 2,
+          "title": "linktr.ee/dominiklukes",
+          "layout": "Title only for image or SmartArt",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "linktr.ee/dominiklukes",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_2_2.png",
+              "alt": "Picture 1",
+              "caption": ""
+            },
+            {
+              "type": "smart_art",
+              "layout": "Icon Label Description List",
+              "nodes": [
+                {
+                  "id": "{0F69152E-AF22-442E-B5ED-CA9FA144C637}",
+                  "text": "Dominik Lukeš",
+                  "children": [
+                    {
+                      "id": "{BBDB4F53-E656-4A24-8DD3-11C1BEFDFB1E}",
+                      "text": "Dominik.Lukes@oerc.ox.ac.uk\nAI Consultant for Research and Strategy\nAI Competency Centre",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_186F8A7DD2DF40CA928BFFD576B8BA65.png",
+                  "icon_alt": null
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_2_3.png",
+              "alt": "Picture 2",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_2_7.png",
+              "alt": "Picture 6",
+              "caption": ""
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "bit.ly/ox-ai-sig",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "title": "Why should language teachers listen to someone like that?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Why should language teachers listen to someone like that?",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "title": "Formerly founded and ran",
+          "layout": "Half page title",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Formerly founded and ran",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_4_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "title": "Pi-lingual = 3.14 languages",
+          "layout": "Title only for image or SmartArt",
+          "notes": "Highest achieved – NOT Current level",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Pi-lingual = 3.14 languages",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "",
+              "nodes": [
+                {
+                  "id": "{C957E056-B7C0-473E-9E04-A16C8E860E79}",
+                  "text": "B2",
+                  "children": [
+                    {
+                      "id": "{93D1D527-10DA-4CD9-9578-9554D3933F08}",
+                      "text": "Russian",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_750E78DE1CFD4E3A9F65D8D0A4356166.gif",
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{F731AF36-C484-4548-88D6-385ACF7FFEB8}",
+                  "text": "A2.1",
+                  "children": [
+                    {
+                      "id": "{0AF7E927-0475-4CEC-B8E3-1AE9655F39B4}",
+                      "text": "French",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_B907139C22E340928C4EECAC39D807DB.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{D89FF0B8-1F4E-41A3-8C0C-3FD8EFD5A3A1}",
+                      "text": "German",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_117C89058ACD44839FE5465367516FE4.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{FF861948-2D4F-4A21-9A54-040D56A5E777}",
+                      "text": "Spanish",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_76F6ADFEE8764D9199907D497F4F2652.png",
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{D4E71F31-3A62-4F03-9BF4-9CB9EDC44E96}",
+                  "text": "A2.2",
+                  "children": [
+                    {
+                      "id": "{4B5D155A-4F7E-4915-A9FA-6766D16CE7EF}",
+                      "text": "Tetun",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_9EBB539C030A4BD0A1A4B74591407582.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{14D73FF8-E102-4952-8ADB-47A6CCC0819A}",
+                      "text": "Albanian ",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_CB295A064D7946CBB499856386C230DF.png",
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{60B8B81E-4937-48D1-85B0-2423E9CA0B4C}",
+                  "text": "A1.1",
+                  "children": [
+                    {
+                      "id": "{1E0E33BF-C45F-40F7-9F46-6A97B52ED0DF}",
+                      "text": "Indonesian",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_C28791587AB7400A929EBC7AB178F4B5.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{03618AC7-8FB6-46FA-BD88-F6FD254EEA43}",
+                      "text": "Portuguese",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_54E21CBFA14F45DFBED447B7669CFAB2.jpeg",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{91E5BCAA-4A02-4FD4-9312-8EA85EAC8A9F}",
+                      "text": "Dutch",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_A76A4F3A291A439F9F7865F358099D7A.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{62F3DF30-8D5A-499A-A9B0-395A1C94039C}",
+                      "text": "Mandarin",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_34B54D01B6AA4C8D95056F2046FFCCBD.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{7B3C03E8-28BA-4B2B-8F41-E72435FAAAA3}",
+                      "text": "Hungarian",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_FD795FF89C4A406A8894D04609148680.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{9296C517-2C80-4DF1-9B2C-CC24D21924EA}",
+                      "text": "Swahili ",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_8CF278A805C743F9BC727C25A3D481B4.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{4982685A-6F92-4960-BF35-25D240B9F29B}",
+                      "text": "Runyankore",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_5B82B4869F8E45918B30961C231EA55A.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{97EC6C4E-9DB1-4E7D-AFD2-457DEE90489D}",
+                      "text": "Kazakh",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_D315817B4AE5438FA0AFBA1AB0A4E762.png",
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{9539A61F-6011-4192-AB42-BF7FB02DD5C2}",
+                  "text": "A1.2",
+                  "children": [
+                    {
+                      "id": "{8DCD9769-74E5-41EB-9F1B-21DC59961D1D}",
+                      "text": "Romanian",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_B939017EA8F04DF7BAA64C298C50BB81.jpeg",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{4BA60ACD-D3DB-4CD4-B537-69E724FA639C}",
+                      "text": "Arabic",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_22839EA0CB544627BAB8E0D01306DF38.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{B6D6A722-491D-4414-A019-79150F4C2373}",
+                      "text": "Polish",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_A0D052D5BFF34972927E6141C8FD1065.png",
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{11C48C04-03FF-4D9F-9329-8B98BB732139}",
+                      "text": "Greek",
+                      "children": [],
+                      "level": 2,
+                      "icon": "/assets/images/icons/sa_532989F00C7740658C3C58B0352D7A7E.png",
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_5_10.png",
+              "alt": "Picture 9",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "title": "Main languages",
+          "layout": "Title only for image or SmartArt",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Main languages",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_6_9.png",
+              "alt": "Picture 8",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_6_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "title": "Translator",
+          "layout": "Title only for image or SmartArt",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Translator",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_7_1026.png",
+              "alt": "Picture 2",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_7_1028.png",
+              "alt": "Picture 4",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "title": "Language pedagogy is my passion",
+          "layout": "Title only for image or SmartArt",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Language pedagogy is my passion",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_8_6.png",
+              "alt": "Picture 5",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_8_3.png",
+              "alt": "Picture 2",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 9,
+          "title": "Digital from 2001 on Bohemica.com",
+          "layout": "Title only for image or SmartArt",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Digital from 2001 on Bohemica.com",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_9_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 10,
+          "title": "I am not coder",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "I am not coder",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 11,
+          "title": "My coding traces",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "My coding traces",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_11_3.png",
+              "alt": "Picture 2",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 12,
+          "title": "My first ed tech: 2001",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "My first ed tech: 2001",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_12_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_12_6.png",
+              "alt": "Picture 5",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 13,
+          "title": "Working with developers",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Working with developers",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_13_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_13_6.png",
+              "alt": "Picture 5",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 14,
+          "title": "…is hard.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "…is hard.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 15,
+          "title": "So now when I have an idea",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "So now when I have an idea",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 16,
+          "title": "I ask an LLM to code it for me.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "I ask an LLM to code it for me.",
+              "level": 1
+            },
+            {
+              "type": "video",
+              "src": "/assets/videos/slide_16_3.mp4",
+              "title": "CleanShot 2025-10-28 at 13.40.22"
+            }
+          ]
+        },
+        {
+          "order": 17,
+          "title": "Which is how I got this…",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Which is how I got this…",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 18,
+          "title": "Building  Your Language Muscle",
+          "layout": "Screenshot description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Building  Your Language Muscle",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Transformed Google Doc into website with ebook export using Google AI Studio (FREE)",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "buildingyourlanguagemuscle.edutools.fyi",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_18_6.png",
+              "alt": "Media Placeholder 5",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_18_7.png",
+              "alt": "Picture 6",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 19,
+          "title": "Czechly.com",
+          "layout": "Video with description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Czechly.com",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Moved old resources from word documents and bohemica.com using Lovable (PAID).",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_19_8.png",
+              "alt": "Media Placeholder 7",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 20,
+          "title": "And about 50 other tools.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "And about 50 other tools.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 21,
+          "title": "Edutools.FYI",
+          "layout": "Screenshot description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Edutools.FYI",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Lists 46 apps (out of about 80) I’ve made since August 2025.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "One of them is vibeadvent.edutools.fyi",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_21_10.png",
+              "alt": "Picture 9",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_21_12.png",
+              "alt": "Picture 11",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_21_8.png",
+              "alt": "Media Placeholder 7",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 22,
+          "title": "What are you hoping to learn?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "What are you hoping to learn?",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 23,
+          "title": "Three things to learn",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Three things to learn",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "Icon Vertical Solid List",
+              "nodes": [
+                {
+                  "id": "{D351BD2E-BEF2-4716-911B-E4D00C7D961D}",
+                  "text": "Learn about AI",
+                  "children": [
+                    {
+                      "id": "{3176A9EF-B48A-4B30-8BF5-6D4DB421F54F}",
+                      "text": "Models",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{DF21A521-2806-8B48-B12C-9DFB3038E67C}",
+                      "text": "Apps",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{E05B32A0-1386-CF4B-B86A-B1A323A5BE9B}",
+                      "text": "Agents",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_AF22AFE7B4AE42268DBE5C053ACAEBE3.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{0642D066-6552-49FF-AB40-F04645DF860D}",
+                  "text": "Learn about coding",
+                  "children": [
+                    {
+                      "id": "{1D8B3541-CCFE-E342-AD96-B0C6C80D4ED9}",
+                      "text": "Code principles",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{264C80AE-F98C-A74E-8368-04BED3AFDB5E}",
+                      "text": "Infrastructure",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{1246C31A-EA44-A142-9A81-0FDEC4D88F00}",
+                      "text": "Daemons",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_F2196C54D8CC4EC08D63D0E8DF5B71B3.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{B0CB411C-3A15-45F3-957E-89EA1AAD8483}",
+                  "text": "Learn about yourself",
+                  "children": [
+                    {
+                      "id": "{862D0F81-5E54-4A5D-B63F-28224985A1FD}",
+                      "text": "Motivation",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{2E7BE44A-FC23-5A4F-A8CF-EF6ACA820B89}",
+                      "text": "Current knowledge",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{94E8AE76-4B57-3447-93ED-9972CBD21B48}",
+                      "text": "Learning Approaches",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_E1B39759C8A44136A9CB6CA809E49C57.png",
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 24,
+          "title": "But why?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "But why?",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 25,
+          "title": "Ken Kahn, 2025, The Learner’s Apprentice",
+          "layout": "Quote",
+          "notes": "https://cmkpress.com/product/learners-apprentice/",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Ken Kahn, 2025, The Learner’s Apprentice",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Make interactive software — without learning to code — including interactive apps, games, augmented reality, simulations and models",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Create history, science, and literature adventures",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_25_1026.png",
+              "alt": "Picture 2",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 26,
+          "title": "Have you always wanted to code something for your students or yourselves?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Have you always wanted to code something for your students or yourselves?",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 27,
+          "title": "What can be done easily",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "What can be done easily",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "Icon Vertical Solid List",
+              "nodes": [
+                {
+                  "id": "{EF6B5C93-80D2-4CCB-BB3A-7537E61646C0}",
+                  "text": "Useful traditional apps",
+                  "children": [],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_D442110933F449C6A5179E2D14EAABAA.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{57D0D5FE-650D-4DCA-9777-3C2BDDC1091A}",
+                  "text": "Interactive materials and simulations",
+                  "children": [],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_9ACA0958099D43F89185357A18478FD8.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{5BFD4089-956D-4535-BE34-BE7D0C4DFECF}",
+                  "text": "LLM-powered apps",
+                  "children": [],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_FB270D7C38C4458A90D8A85BC3D78FC8.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{203B6F66-1E5B-4B2E-8AC1-292FE3CC13F6}",
+                  "text": "Content browsers and self-study guides",
+                  "children": [],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_28EA852AE7FC42BC920E35F059DD03A3.png",
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 28,
+          "title": "Levels of apps",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Levels of apps",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "Icon Vertical Solid List",
+              "nodes": [
+                {
+                  "id": "{819650C3-A8E0-4958-B0C5-78CF553EA2BC}",
+                  "text": "LLM-powered applications",
+                  "children": [
+                    {
+                      "id": "{E73B8525-E00C-2148-802C-00192E76A87A}",
+                      "text": "API access required",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_CBB693C5CEF0492FB7DCB3E077DA4155.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{B429978C-43CA-44D9-8696-E13EE12673D1}",
+                  "text": "LLM-powered widgets",
+                  "children": [
+                    {
+                      "id": "{5CE07A33-8917-9948-BD89-785926DF960B}",
+                      "text": "Chatbots",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{8AC03340-4A8B-F443-B28C-4DBF911AB3EF}",
+                      "text": "Content matching",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{499D6671-2DE4-5A40-919A-06DCF7727D1B}",
+                      "text": "Story writers",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_0EA4BFAEDDC743F9B13326AE4C56667C.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{24848F1B-A675-42CC-98E4-483CE631F829}",
+                  "text": "Widgets",
+                  "children": [
+                    {
+                      "id": "{1C4DE470-2F33-4349-8C64-E818A45DDCD7}",
+                      "text": "Word counter",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{EB6154EB-EB42-2741-9458-B314F6638ABE}",
+                      "text": "Graphing calculator",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{6B80E9FF-B82D-6946-B8F0-1FA78CF188C4}",
+                      "text": "Slide show",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_16A77F3783284B169DEC0EEE0DB936E0.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{0B52A52A-14ED-4600-BE45-C4FE7A15D0BF}",
+                  "text": "Websites",
+                  "children": [
+                    {
+                      "id": "{D7D2DCDA-A9CC-4A42-86BC-2E05CC797580}",
+                      "text": "Hosting requires",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{81022C7B-F3D9-C64E-A0D4-2CFD93912D76}",
+                      "text": "Extended presentations",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_582A4970746B4CEF8DCFAD784A18C04F.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{72EE8610-088D-42C6-B9BB-28BFEB4878F1}",
+                  "text": "Applications",
+                  "children": [
+                    {
+                      "id": "{3769874A-5342-6E44-BD58-CEE8DB8D0E9C}",
+                      "text": "Database required",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{0AB9222F-D379-5D47-91B8-3FA7635CEE1E}",
+                      "text": "Security",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{4780881A-59F5-5545-BA9C-5693D125F2A8}",
+                      "text": "User accounts",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_1D56FE1DC3D945B2895D11B03CBC84EC.png",
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 29,
+          "title": "Did you know?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Did you know?",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_29_3.png",
+              "alt": "Picture 2",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 30,
+          "title": "This is not a how to session. It’s a “how to begin” session.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "This is not a how to session. It’s a “how to begin” session.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 31,
+          "title": "Using “AI” for anything is a journey of (self)-discovery.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Using “AI” for anything is a journey of (self)-discovery.",
+              "level": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What is vibecoding",
+      "slides": [
+        {
+          "order": 32,
+          "title": "Vibecoding?",
+          "layout": "Section heading with image (white)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Vibecoding?",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 33,
+          "title": "Where does “vibe coding” fit in?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Where does “vibe coding” fit in?",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 34,
+          "title": "Karpathy “accidentally” coining a new term",
+          "layout": "Quote",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Karpathy “accidentally” coining a new term",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_34_5.png",
+              "alt": "Picture 4",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 35,
+          "title": "Vibe coding is a “state of mind”, not a technique but it is now often used for any AI assisted coding.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Vibe coding is a “state of mind”, not a technique but it is now often used for any AI assisted coding.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 36,
+          "title": "Even super programmers do it create useful things",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Even super programmers do it create useful things",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_36_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_36_5.png",
+              "alt": "Picture 4",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 37,
+          "title": "This is what it looks like in practice.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "This is what it looks like in practice.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 38,
+          "title": "This is the vibe I have – now what do I do with it?",
+          "layout": "Quote",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "This is the vibe I have – now what do I do with it?",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Create a modern looking website with an interactive set of exercises to practice Czech noun declensions. Create the paradigms for two models for each gender, for each paradigm come up with a set of 10 most common nouns and create exercises of three types: multiple choice, cloze and drag and drop. Also generate a set of 3 short beginner level texts and 3 simple dialogues that can be linked to the practice exercises. Make the whole site and individual exercises embeddable in other sites such as a virtual learning environment or a blog. Make sure each exercise has an answer key and gives comprehensive feedback to the user. Make it possible for users to store progress and return to the site later to continue their learning.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 39,
+          "title": "Let’s start for free with Google AI Studio",
+          "layout": "Video with description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Let’s start for free with Google AI Studio",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "ai.dev",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Aimed at developers.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Free for everyone.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Easy to use.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_39_7.png",
+              "alt": "Picture 6",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 40,
+          "title": "Simple language project – part 1",
+          "layout": "Video with description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Simple language project – part 1",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Start with a prompt that describe everything you want and wait.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "video",
+              "src": "/assets/videos/slide_40_6.mp4",
+              "title": "CleanShot 2026-01-09 at 10.50.50"
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_40_6.png",
+              "alt": "CleanShot 2026-01-09 at 10.50.50",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 41,
+          "title": "Simple language project – part 2",
+          "layout": "Video with description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Simple language project – part 2",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Test everything and find what’s missing.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "video",
+              "src": "/assets/videos/slide_41_7.mp4",
+              "title": "CleanShot 2026-01-09 at 10.56.05"
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_41_7.png",
+              "alt": "CleanShot 2026-01-09 at 10.56.05",
+              "caption": ""
+            },
+            {
+              "type": "video",
+              "src": "/assets/videos/slide_41_8.mp4",
+              "title": "CleanShot 2026-01-09 at 10.58.21"
+            }
+          ]
+        },
+        {
+          "order": 42,
+          "title": "Simple language project – part 3",
+          "layout": "Video with description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Simple language project – part 3",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Ask for more more.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "video",
+              "src": "/assets/videos/slide_42_10.mp4",
+              "title": "CleanShot 2026-01-09 at 11.05.25"
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_42_10.png",
+              "alt": "CleanShot 2026-01-09 at 11.05.25",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 43,
+          "title": "Simple language project – part 4",
+          "layout": "Video with description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Simple language project – part 4",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Deploy to Google cloud project.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Free but credit card required.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "video",
+              "src": "/assets/videos/slide_43_6.mp4",
+              "title": "CleanShot 2026-01-09 at 11.09.55"
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_43_6.png",
+              "alt": "CleanShot 2026-01-09 at 11.09.55",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 44,
+          "title": "Simple language project – part 5",
+          "layout": "Screenshot description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Simple language project – part 5",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Share with students.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "bit.ly/czechvibetest",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_44_9.png",
+              "alt": "Media Placeholder 8",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_44_10.png",
+              "alt": "Picture 9",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 45,
+          "title": "What made this happen?",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "What made this happen?",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "Icon Vertical Solid List",
+              "nodes": [
+                {
+                  "id": "{F3978EDE-6008-4F22-B9BE-FC27F7001E33}",
+                  "text": "Gemini 3 Pro",
+                  "children": [
+                    {
+                      "id": "{C6159217-D460-42FC-9137-19C208C17B67}",
+                      "text": "Language skills",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{B695617F-030B-41FA-B920-501DFCDB5E08}",
+                      "text": "Agentic skills",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{2C1CD648-1366-454B-B298-5EB48301AB7F}",
+                      "text": "Coding skills",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_FD06E7FF4EA2425081CCD80CEB2140C4.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{A4EE413B-D638-4469-A12E-B0C3811DD47F}",
+                  "text": "Google AI Studio",
+                  "children": [
+                    {
+                      "id": "{E44E8403-C226-4C24-AF37-FA69A3B45A33}",
+                      "text": "Model harness",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{D6698690-EE73-4D78-BEB2-01E088518D33}",
+                      "text": "Agentic builder",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_0CC26D58BC9340DC959E67B2371B826F.png",
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 46,
+          "title": "Give it a try!",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Give it a try!",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 47,
+          "title": "While I’m speaking",
+          "layout": "Screenshot description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "While I’m speaking",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Go to Google AI Studio",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "ai.dev",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Click on build",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Ask for a quick app to practice something in your language.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_47_3.png",
+              "alt": "Media Placeholder 2",
+              "caption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Simple case study",
+      "slides": [
+        {
+          "order": 48,
+          "title": "Models and tools",
+          "layout": "Section heading with image (white)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Models and tools",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 49,
+          "title": "What you need to know",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "What you need to know",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "Icon Vertical Solid List",
+              "nodes": [
+                {
+                  "id": "{D5BC0F93-483A-4822-BEE8-B6E61A90EDA7}",
+                  "text": "Models",
+                  "children": [
+                    {
+                      "id": "{9ECC0C52-81E8-469D-8AFB-E2D7C7DD85F1}",
+                      "text": "Gemini 3 Pro",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{731E883D-1FD4-41AD-A687-D838F259ABB0}",
+                      "text": "Claude 4.5 Opus",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_0CD3F43C459B47639055E075F86ADE15.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{35E1C702-7EC5-4A07-AA30-0987EB439F93}",
+                  "text": "Tools",
+                  "children": [
+                    {
+                      "id": "{4E65948D-C976-4E63-8AD2-03B587CB0F0D}",
+                      "text": "Lovable",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{CB60A488-9BC0-49C7-B852-CD718FC50658}",
+                      "text": "Google AI Studio",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_8B27016769ED450E87948D7DDA14D4AF.png",
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 50,
+          "title": "Models can do more than just build apps.   They can also power the apps.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Models can do more than just build apps. \u000b\u000bThey can also power the apps.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 51,
+          "title": "Next step for Czech Mate",
+          "layout": "Screenshot description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Next step for Czech Mate",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Add AI features in Google AI Studio – you can use this for free up to a limit – then you have to pay per usage.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_51_8.png",
+              "alt": "Media Placeholder 7",
+              "caption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Levels of  ai assisted coding",
+      "slides": [
+        {
+          "order": 52,
+          "title": "Levels of AI-Assisted Coding",
+          "layout": "1_Section heading with image (blue)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Levels of AI-Assisted Coding",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 53,
+          "title": "Four levels of AI assisted coding",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Four levels of AI assisted coding",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "Icon Vertical Solid List",
+              "nodes": [
+                {
+                  "id": "{E062667C-CC11-CC49-B4E2-0E8A4727DAC2}",
+                  "text": "Agentic App Builder",
+                  "children": [
+                    {
+                      "id": "{35083667-7CF9-F44F-B3AA-1D9F80BDBDF6}",
+                      "text": "AI builds application",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{E5E00B7C-A9E0-744B-880C-8554AEF1C64D}",
+                      "text": "Deploys it on server",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{8DA01245-218A-6544-A7EC-B5C9F1BF2661}",
+                      "text": "Knowledge need go up with complexity",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_56076C123F643A4387305F6DC3819437.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{D351BD2E-BEF2-4716-911B-E4D00C7D961D}",
+                  "text": "Snippets",
+                  "children": [
+                    {
+                      "id": "{3176A9EF-B48A-4B30-8BF5-6D4DB421F54F}",
+                      "text": "Copy/paste code from chatbot",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{DF21A521-2806-8B48-B12C-9DFB3038E67C}",
+                      "text": "Knowledge about what to do with code",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_AF22AFE7B4AE42268DBE5C053ACAEBE3.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{0642D066-6552-49FF-AB40-F04645DF860D}",
+                  "text": "Agentic IDE",
+                  "children": [
+                    {
+                      "id": "{1D8B3541-CCFE-E342-AD96-B0C6C80D4ED9}",
+                      "text": "Can write full apps",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{264C80AE-F98C-A74E-8368-04BED3AFDB5E}",
+                      "text": "Knowledge about running code needed",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{1246C31A-EA44-A142-9A81-0FDEC4D88F00}",
+                      "text": "Programmer tools",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_F2196C54D8CC4EC08D63D0E8DF5B71B3.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{B0CB411C-3A15-45F3-957E-89EA1AAD8483}",
+                  "text": "Artifacts / Canvas",
+                  "children": [
+                    {
+                      "id": "{862D0F81-5E54-4A5D-B63F-28224985A1FD}",
+                      "text": "Chatbot write code",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{2E7BE44A-FC23-5A4F-A8CF-EF6ACA820B89}",
+                      "text": "No knowledge required",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{94E8AE76-4B57-3447-93ED-9972CBD21B48}",
+                      "text": "Runs directly",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_E1B39759C8A44136A9CB6CA809E49C57.png",
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 54,
+          "title": "Knowledge requirement varies with level",
+          "layout": "Title only for image or SmartArt",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Knowledge requirement varies with level",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_54_5.png",
+              "alt": "Picture 4",
+              "caption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Level 1",
+      "slides": [
+        {
+          "order": 55,
+          "title": "Level 1: Copy paste snippets",
+          "layout": "Section heading with image (white)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Level 1: Copy paste snippets",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 56,
+          "title": "Code only does not help unless you know what to do with it",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Code only does not help unless you know what to do with it",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_56_5.png",
+              "alt": "Picture 4",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 57,
+          "title": "Knowledge required",
+          "layout": "Side bar title with text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Knowledge required",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Minimum: Code needs to be interpreted, and I can do it in a browser.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Ideal: Full coding knowledge (just save me time)",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Level 2",
+      "slides": [
+        {
+          "order": 58,
+          "title": "Level 2: Run code in canvas / artifact",
+          "layout": "Section heading with image (white)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Level 2: Run code in canvas / artifact",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 59,
+          "title": "Knowledge required",
+          "layout": "Side bar title with text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Knowledge required",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Minimum: This is possible.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Target: What types of things are possible to ask for.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Ideal: What language / libraries are available.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 60,
+          "title": "Claude started this with Artifacts",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Claude started this with Artifacts",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_60_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 61,
+          "title": "ChatGPT introduced this in Canvas",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "ChatGPT introduced this in Canvas",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_61_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_61_3.png",
+              "alt": "Picture 2",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 62,
+          "title": "Google made it shareable in Canvas",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Google made it shareable in Canvas",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_62_3.png",
+              "alt": "Picture 2",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 63,
+          "title": "More knowledge:  Best models Best artifacts / platform",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "More knowledge:\u000b\u000bBest models\u000bBest artifacts / platform",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 64,
+          "title": "Best models for coding",
+          "layout": "Side bar title with text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Best models for coding",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "",
+              "nodes": [
+                {
+                  "id": "{F3EEF75E-2796-6A41-8B7B-9F424F1FE174}",
+                  "text": "Open models",
+                  "children": [
+                    {
+                      "id": "{A5E221BF-8FBC-494D-A22C-6750149E8E27}",
+                      "text": "Qwen",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{5F993240-4DD2-4F46-BA6D-D1261EEB3673}",
+                      "text": "r1",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{F7A3C804-540B-6444-B113-D1DE6516B638}",
+                  "text": "OpenAI",
+                  "children": [
+                    {
+                      "id": "{0CE06F9F-D0CE-2344-92F0-7A4A855B8B27}",
+                      "text": "GPT-5.2",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{0562C2DF-607E-1544-B4AF-791655BAC1C1}",
+                  "text": "Google",
+                  "children": [
+                    {
+                      "id": "{29AF8060-9F79-2A49-83E5-9335E4CB6614}",
+                      "text": "Gemini 3 Pro",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{C4B3A612-5A89-DD49-A376-ED3983BB4C34}",
+                  "text": "Anthropic",
+                  "children": [
+                    {
+                      "id": "{65524A7F-5B30-0240-89F3-99A10EAC3EDE}",
+                      "text": "Claude 4.5 Sonnet (Opus)",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 65,
+          "title": "Best artifacts / canvas features",
+          "layout": "Sidebar title without text",
+          "notes": "Google\n\tGood model \n\tRich presets\n\tCan include LLM\nClaude\n\tBest models for interface\n\tSupports react\n\tLimited sharing\nQwen\n\tDecent model\n\tGooxd sharing\n\tFree\nChatGPT\n\tPreview only\n\tLimited functionality and sharing\n\t\n",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Best artifacts / canvas features",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "",
+              "nodes": [
+                {
+                  "id": "{BE87D7F5-A56F-492A-9507-E0393C263855}",
+                  "text": "Qwen",
+                  "children": [
+                    {
+                      "id": "{D843A82D-9B79-4A4E-8FF2-1A6F0CBECA13}",
+                      "text": "Gooxd sharing",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{84B78F43-23AD-422E-BB75-99DBB9EA90B3}",
+                      "text": "Free",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{A01C57B2-3AF5-419A-95FA-5EF31960D498}",
+                      "text": "Decent model",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{E1E58CFE-3006-47E4-9F3E-9ABE274E50D9}",
+                  "text": "Claude",
+                  "children": [
+                    {
+                      "id": "{818422BE-B2ED-4377-8958-C88100107FBB}",
+                      "text": "Supports react",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{DDB9625A-D9AA-4700-B8FA-9D5102C78934}",
+                      "text": "Limited sharing",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{87E3B538-06C5-4DB1-9204-D734B1B8CDD5}",
+                      "text": "Best models for interface",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{7207AF52-F10E-4AF6-AA17-AB103415A509}",
+                  "text": "Gemini",
+                  "children": [
+                    {
+                      "id": "{D6B860A5-C158-400B-9EE8-2389884380CD}",
+                      "text": "Rich presets",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{21DE2066-EDEE-46AE-94B5-6D78A1C0E850}",
+                      "text": "Leading model ",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{29AA584B-85F1-471A-9270-8E6190BCD6BE}",
+                      "text": "Can include LLM",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{048CA502-26E1-4300-A5CE-DFEE7918BDA6}",
+                  "text": "ChatGPT",
+                  "children": [
+                    {
+                      "id": "{D3307C17-4D38-438B-A0CF-547BF056468A}",
+                      "text": "Preview only",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    },
+                    {
+                      "id": "{4A5AEC26-E240-40A2-ADF9-C932E1294D46}",
+                      "text": "Limited functionality and sharing",
+                      "children": [],
+                      "level": 2,
+                      "icon": null,
+                      "icon_alt": null
+                    }
+                  ],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 66,
+          "title": "Tip: Know when to give up!",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Tip: Know when to give up!",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 67,
+          "title": "Sometimes, these is no fixing these things",
+          "layout": "Full blue background",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Sometimes, these is no fixing these things",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_67_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Level 3",
+      "slides": [
+        {
+          "order": 68,
+          "title": "Agentic app builders",
+          "layout": "Section heading with image (white)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Agentic app builders",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 69,
+          "title": "Agents make plans and execute step by step",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Agents make plans and execute step by step",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_69_3.png",
+              "alt": "Picture 2",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 70,
+          "title": "Agentic app builders make plans for the whole idea to app process.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Agentic app builders make plans for the whole idea to app process.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 71,
+          "title": "Loveable",
+          "layout": "Title only for image or SmartArt",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Loveable",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_71_5.png",
+              "alt": "Picture 4",
+              "caption": ""
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_71_8.png",
+              "alt": "Picture 7",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 72,
+          "title": "Fastest growing field",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Fastest growing field",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 73,
+          "title": "Popular examples",
+          "layout": "Side bar title with text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Popular examples",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "",
+              "nodes": [
+                {
+                  "id": "{55888AC2-CCCD-454F-9285-FA7516A3F804}",
+                  "text": "V0",
+                  "children": [],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{5DFDFD6D-8736-6F41-A1BC-92B687BB0C2E}",
+                  "text": "Loveable",
+                  "children": [],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                },
+                {
+                  "id": "{CD213A9F-9BEE-0741-86F4-E3457BB2376D}",
+                  "text": "Replit",
+                  "children": [],
+                  "level": 1,
+                  "icon": null,
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 74,
+          "title": "Knowledge required",
+          "layout": "Side bar title with text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Knowledge required",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Minimum: What you want!",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Useful: What is possible and what is too much.",
+                  "level": 0,
+                  "children": []
+                },
+                {
+                  "text": "Ideal: When you might need a database.",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 75,
+          "title": "Lovable can now host websites and integrates with Shopify.",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Lovable can now host websites and integrates with Shopify.",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "order": 76,
+          "title": "AULC 2026",
+          "layout": "Video with description",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "AULC 2026",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_76_13.png",
+              "alt": "Media Placeholder 12",
+              "caption": ""
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "AULC website started in Google AI Studio and moved to Lovable",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_76_15.png",
+              "alt": "Picture 14",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 77,
+          "title": "Where should you start for free? Right now?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Where should you start for free? Right now?",
+              "level": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Case study",
+      "slides": [
+        {
+          "order": 78,
+          "title": "Case of Above the Line",
+          "layout": "1_Section heading with image (white)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Case of Above the Line",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_78_4.png",
+              "alt": "Picture 3",
+              "caption": ""
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "abovetheline.edutools.fyi",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 79,
+          "title": "Journey to ATL",
+          "layout": "Title Only",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Journey to ATL",
+              "level": 1
+            },
+            {
+              "type": "smart_art",
+              "layout": "",
+              "nodes": [
+                {
+                  "id": "{09B60174-22AA-41C9-82E0-4D01DEB1BE46}",
+                  "text": "Tool in Gemini",
+                  "children": [],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_409E0126FD477641B7F1126AE8515C05.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{B2BD490C-F3AA-479A-834C-B06D906E9FB3}",
+                  "text": "Website with features",
+                  "children": [],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_F46F17D6C846464E94F317EF8CE376AA.png",
+                  "icon_alt": null
+                },
+                {
+                  "id": "{B0673E51-975D-453C-8263-49EA67987004}",
+                  "text": "Prompt for Claude",
+                  "children": [],
+                  "level": 1,
+                  "icon": "/assets/images/icons/sa_A9A06B43860FFD4394B3E19A233A5A74.png",
+                  "icon_alt": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 80,
+          "title": "Step 1: Prompt in Claude with artifacts",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Step 1: Prompt in Claude with artifacts",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_80_5.png",
+              "alt": "Picture 4",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 81,
+          "title": "Step 2: Applet in Gemini Canvas",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Step 2: Applet in Gemini Canvas",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_81_6.png",
+              "alt": "Picture 5",
+              "caption": ""
+            },
+            {
+              "type": "video",
+              "src": "/assets/videos/slide_81_2.mp4",
+              "title": "CleanShot 2025-10-28 at 13.27.49"
+            }
+          ]
+        },
+        {
+          "order": 82,
+          "title": "Step 3: Making Above the line in Google AI Studio",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Step 3: Making Above the line in Google AI Studio",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_82_8.png",
+              "alt": "Picture 7",
+              "caption": ""
+            }
+          ]
+        },
+        {
+          "order": 83,
+          "title": "Now available as website",
+          "layout": "Sidebar title without text",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Now available as website",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_83_6.png",
+              "alt": "Picture 5",
+              "caption": ""
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "abovetheline.edutools.fyi",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 84,
+          "title": "Let’s see your creations in ai.dev?",
+          "layout": "Title only (for single text lines)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Let’s see your creations in ai.dev?",
+              "level": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Final slides",
+      "slides": [
+        {
+          "order": 85,
+          "title": "Thank you / Questions",
+          "layout": "Final slide 2",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "Thank you / Questions",
+              "level": 1
+            },
+            {
+              "type": "list",
+              "style": "bullet",
+              "items": [
+                {
+                  "text": "Dominik.Lukes@oerc.ox.ac.uk",
+                  "level": 0,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "order": 86,
+          "title": "This presentation is licensed under Creative Commons By Attribution license except where otherwise noted.  Icons and stock photos licensed under Microsoft Premium Content and cannot be reused outside this document.",
+          "layout": "Section heading with image (blue)",
+          "notes": "",
+          "content": [
+            {
+              "type": "heading",
+              "text": "This presentation is licensed under Creative Commons By Attribution license except where otherwise noted.\u000b\u000bIcons and stock photos licensed under Microsoft Premium Content and cannot be reused outside this document.",
+              "level": 1
+            },
+            {
+              "type": "image",
+              "src": "/assets/images/slides/slide_86_5.png",
+              "alt": "Content Placeholder 4",
+              "caption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "vibecodingsforlts",
+  "version": "1.0.0",
+  "description": "Vibe Coding for Language Teachers - Interactive Presentation",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/processMedia.js && tsc && vite build",
+    "preview": "vite preview",
+    "process-media": "node scripts/processMedia.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.12.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
