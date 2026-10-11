@@ -4,7 +4,7 @@ export const sessionInfo = {
   speaker: {
     name: "Dominik Lukes",
     affiliation: "University of Oxford",
-    email: "Dominik.Lukes@oerc.ox.ac.uk",
+    email: "Dominik.Lukes@digital.ox.ac.uk",
     links: {
       website: "https://dominiklukes.net",
     },

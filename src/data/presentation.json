@@ -39,7 +39,7 @@
               "style": "bullet",
               "items": [
                 {
-                  "text": "Dominik.Lukes@oerc.ox.ac.uk",
+                  "text": "Dominik.Lukes@digital.ox.ac.uk",
                   "level": 0,
                   "children": []
                 }
@@ -79,7 +79,7 @@
                   "children": [
                     {
                       "id": "{BBDB4F53-E656-4A24-8DD3-11C1BEFDFB1E}",
-                      "text": "Dominik.Lukes@oerc.ox.ac.uk\nAI Consultant for Research and Strategy\nAI Competency Centre",
+                      "text": "Dominik.Lukes@digital.ox.ac.uk\nAI Consultant for Research and Strategy\nAI Competency Centre",
                       "children": [],
                       "level": 2,
                       "icon": null,
@@ -2876,7 +2876,7 @@
               "style": "bullet",
               "items": [
                 {
-                  "text": "Dominik.Lukes@oerc.ox.ac.uk",
+                  "text": "Dominik.Lukes@digital.ox.ac.uk",
                   "level": 0,
                   "children": []
                 }
